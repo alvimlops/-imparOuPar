@@ -1,0 +1,7 @@
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\bin\Debug\parOUimpra.exe.config
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\bin\Debug\parOUimpra.exe
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\bin\Debug\parOUimpra.pdb
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\obj\Debug\parOUimpra.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\obj\Debug\parOUimpra.exe
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\obj\Debug\parOUimpra.pdb
+C:\Users\alvaro.rodrigues\Documents\visual curso\parOUimpra\parOUimpra\obj\Debug\parOUimpra.csprojAssemblyReference.cache
